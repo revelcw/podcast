@@ -20,6 +20,7 @@
             <description><![CDATA[The first ting]]></description>
             <content:encoded><![CDATA[Heyy]]></content:encoded>
             <author>janedoe@example.com (Jane Doe)</author>
+            <guid>fg7f8g7dv77gf87g9f8d7g</guid>            
             <author>joesmith@example.com (Joe Smith)</author>
         </item>
     </channel>
